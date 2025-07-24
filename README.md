@@ -52,11 +52,11 @@ Tenho paixão por resolver problemas complexos com soluções criativas e eficie
 
 ![Cavera360JM GitHub stats](https://github-readme-stats.vercel.app/api?username=Cavera360JM&show_icons=true&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cavera360JM&theme=dracula&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Cavera360JM&theme=dracula&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavera360JM&layout=compact&theme=dracula)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Cavera360JM&theme=dracula&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cavera360JM&theme=dracula&hide_border=true)
 
 ---
 
