@@ -1,19 +1,19 @@
-# 👋 Olá, eu sou o João Miguel (Cavera360JM)  
-# 👋 Hello, I'm João Miguel (Cavera360JM)
+## 👋 Olá, eu sou o João Miguel (Cavera360JM)  
+## 👋 Hello, I'm João Miguel (Cavera360JM)
 
-💻 Desenvolvedor Python e Web | Analista de Dados  
-💻 Python & Web Developer | Data Analyst
+💻 **Desenvolvedor Python e Web | Analista de Dados**  
+💻 **Python & Web Developer | Data Analyst**
 
-🎯 Focado em sistemas de gerenciamento, automação, produtividade e análise de dados  
-🎯 Focused on management systems, automation, productivity, and data analysis
+🎯 **Focado em sistemas de gerenciamento, automação, produtividade e análise de dados**  
+🎯 **Focused on management systems, automation, productivity, and data analysis**
 
-📍 Brasil | 📧 [jdiassilva17@gmail.com](mailto:jdiassilva17@gmail.com)  
+📍 **Brasil** | 📧 [jdiassilva17@gmail.com](mailto:jdiassilva17@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-miguel-dias-da-silva-437b12230/)
 
 ---
 
-### 🇧🇷 Tecnologias e Linguagens que utilizo  
-### 🇺🇸 Technologies & Languages I Use
+## 🇧🇷 Tecnologias e Linguagens que utilizo  
+## 🇺🇸 Technologies & Languages I Use
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)  
@@ -26,8 +26,8 @@
 
 ---
 
-### 🇧🇷 Ferramentas e Tecnologias para Análise de Dados  
-### 🇺🇸 Data Analysis Tools & Technologies
+## 🇧🇷 Ferramentas e Tecnologias para Análise de Dados  
+## 🇺🇸 Data Analysis Tools & Technologies
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
@@ -38,17 +38,23 @@
 
 ---
 
-### 🚀 Sobre mim | About Me
+## 🚀 Sobre mim | About Me
 
-Sou um profissional em desenvolvimento com experiência prática em análise de dados e desenvolvimento web utilizando Python e ferramentas modernas.  
+🇧🇷 Sou um profissional em desenvolvimento com experiência prática em análise de dados e desenvolvimento web utilizando Python e ferramentas modernas.  
 Atuo com criação de dashboards, automação de processos e análise estratégica para apoiar decisões empresariais.
 
 Atualmente, estou me especializando em Análise e Desenvolvimento de Sistemas, focando em linguagens como Python, SQL, HTML, CSS e bibliotecas de análise de dados.  
 Tenho paixão por resolver problemas complexos com soluções criativas e eficientes.
 
+🇺🇸 I am a developing professional with hands-on experience in data analysis and web development using Python and modern tools.  
+I work on creating dashboards, automating processes, and providing strategic analysis to support business decision-making.
+
+Currently, I am specializing in Systems Analysis and Development, focusing on languages like Python, SQL, HTML, CSS, and data analysis libraries.  
+I am passionate about solving complex problems with creative and efficient solutions.
+
 ---
 
-### 📈 Estatísticas do GitHub | GitHub Stats
+## 📈 Estatísticas do GitHub | GitHub Stats
 
 ![Cavera360JM GitHub stats](https://github-readme-stats.vercel.app/api?username=Cavera360JM&show_icons=true&theme=dracula)
 
@@ -56,19 +62,20 @@ Tenho paixão por resolver problemas complexos com soluções criativas e eficie
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavera360JM&layout=compact&theme=dracula)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cavera360JM&theme=dracula&hide_border=true)
+<!-- ✅ PROFILE SUMMARY CARD -->
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cavera360JM&theme=dracula)
 
 ---
 
-### 📫 Contato | Contact
+## 📫 Contato | Contact
 
 - 📧 [jdiassilva17@gmail.com](mailto:jdiassilva17@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-miguel-dias-da-silva-437b12230/)
 
 ---
 
-⚡ Obrigado por visitar meu perfil!  
-⚡ Thanks for visiting my profile!  
+⚡ **Obrigado por visitar meu perfil!**  
+⚡ **Thanks for visiting my profile!**
 
-🚀 Vamos criar soluções incríveis juntos!  
-🚀 Let's build amazing solutions together!
+🚀 **Vamos criar soluções incríveis juntos!**  
+🚀 **Let's build amazing solutions together!**
